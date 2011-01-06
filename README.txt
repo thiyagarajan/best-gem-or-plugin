@@ -17,3 +17,5 @@ The best gem or plugin for rails application as below,
 7. Rails Admin Interfaces - https://github.com/fesplugas/typus
 
 8. Rails Pagination - https://github.com/mislav/will_paginate
+
+9. Rails Search - https://github.com/freelancing-god/thinking-sphinx
