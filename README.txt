@@ -8,8 +8,12 @@ The best gem or plugin for rails application as below,
 
 3. Twitter API - https://github.com/jnunemaker/twitter
 
-4. Image upload - https://github.com/thoughtbot/paperclip
+4. File Uploads - https://github.com/thoughtbot/paperclip
 
 5. Deployment Automation - https://github.com/capistrano/capistrano
 
 6. E-Commerce - https://github.com/Shopify/active_merchant
+
+7. Rails Admin Interfaces - https://github.com/fesplugas/typus
+
+8. Rails Pagination - https://github.com/mislav/will_paginate
