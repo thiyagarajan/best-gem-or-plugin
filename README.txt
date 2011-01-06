@@ -23,3 +23,15 @@ The best gem or plugin for rails application as below,
 10. Rails Ratings/votings - https://github.com/edgarjs/ajaxful-rating
 
 11. Web servers - https://github.com/FooBarWidget/passenger
+
+12. Exception Notification - https://github.com/rails/exception_notification
+
+13. JavaScript Frameworks - https://github.com/jquery/jquery
+
+14. Rails Captcha - https://github.com/ambethia/recaptcha
+
+15. Rails Comments - https://github.com/jackdempsey/acts_as_commentable
+
+16. Scheduling tasks - https://github.com/javan/whenever
+
+17. facebook API - https://github.com/mmangino/facebooker
