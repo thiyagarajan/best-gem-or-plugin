@@ -11,3 +11,5 @@ The best gem or plugin for rails application as below,
 4. Image upload - https://github.com/thoughtbot/paperclip
 
 5. Deployment Automation - https://github.com/capistrano/capistrano
+
+6. E-Commerce - https://github.com/Shopify/active_merchant
