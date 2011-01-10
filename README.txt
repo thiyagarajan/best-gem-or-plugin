@@ -41,3 +41,7 @@ The best gem or plugin for rails application as below,
 Useful Links
 
 1. Ruby regular expression editor - http://rubular.com/
+
+2. Convert Html Snippets to Haml Snippets - http://html2haml.heroku.com/
+
+3. Convert CSS Snippets to Syntactically Awesome StyleSheets code - http://css2sass.heroku.com/
