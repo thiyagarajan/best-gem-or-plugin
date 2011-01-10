@@ -35,3 +35,9 @@ The best gem or plugin for rails application as below,
 16. Scheduling tasks - https://github.com/javan/whenever
 
 17. facebook API - https://github.com/mmangino/facebooker
+
+
+
+Useful Links
+
+1. Ruby regular expression editor - http://rubular.com/
