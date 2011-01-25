@@ -36,6 +36,8 @@ The best gem or plugin for rails application as below,
 
 17. facebook API - https://github.com/mmangino/facebooker
 
+18. Sitemap generator - https://github.com/kjvarga/sitemap_generator
+
 
 
 Useful Links
