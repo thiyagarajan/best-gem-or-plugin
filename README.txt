@@ -47,3 +47,5 @@ Useful Links
 2. Convert Html Snippets to Haml Snippets - http://html2haml.heroku.com/
 
 3. Convert CSS Snippets to Syntactically Awesome StyleSheets code - http://css2sass.heroku.com/
+
+4. displaying images, html content and multi-media in a Mac-style "lightbox" that floats overtop of web page - http://fancybox.net/
