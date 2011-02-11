@@ -38,6 +38,8 @@ The best gem or plugin for rails application as below,
 
 18. Sitemap generator - https://github.com/kjvarga/sitemap_generator
 
+19. JavaScript and CSS Asset Compression for Production Rails Apps - https://github.com/sbecker/asset_packager
+
 
 
 Useful Links
