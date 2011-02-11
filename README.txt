@@ -40,7 +40,7 @@ The best gem or plugin for rails application as below,
 
 19. JavaScript and CSS Asset Compression for Production Rails Apps - https://github.com/sbecker/asset_packager
 
-
+20. Rails Permalinks & Slugs - https://github.com/norman/friendly_id
 
 Useful Links
 
