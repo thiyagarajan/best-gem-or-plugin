@@ -42,6 +42,8 @@ The best gem or plugin for rails application as below,
 
 20. Rails Permalinks & Slugs - https://github.com/norman/friendly_id
 
+21. E-Mail Sending - https://github.com/mikel/mail
+
 Useful Links
 
 1. Ruby regular expression editor - http://rubular.com/
@@ -55,3 +57,5 @@ Useful Links
 5. The online event registration and ticketing tool - https://www.amiando.com/
 
 6. Epoch & Unix Timestamp Conversion - http://www.epochconverter.com/
+
+7. Email Delivery - http://sendgrid.com/
