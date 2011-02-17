@@ -44,6 +44,8 @@ The best gem or plugin for rails application as below,
 
 21. E-Mail Sending - https://github.com/mikel/mail
 
+22. Markup processors (html convert) - https://github.com/rtomayko/rdiscount/
+
 Useful Links
 
 1. Ruby regular expression editor - http://rubular.com/
