@@ -46,6 +46,8 @@ The best gem or plugin for rails application as below,
 
 22. Markup processors (html convert) - https://github.com/rtomayko/rdiscount/
 
+23. Rails Captcha - https://github.com/ambethia/recaptcha
+
 Useful Links
 
 1. Ruby regular expression editor - http://rubular.com/
