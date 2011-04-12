@@ -48,6 +48,8 @@ The best gem or plugin for rails application as below,
 
 23. Rails Captcha - https://github.com/ambethia/recaptcha
 
+24. PDF Generation - https://github.com/sandal/prawn
+
 Useful Links
 
 1. Ruby regular expression editor - http://rubular.com/
