@@ -50,6 +50,8 @@ The best gem or plugin for rails application as below,
 
 24. PDF Generation - https://github.com/sandal/prawn
 
+25. Ruby Version Management - https://github.com/wayneeseguin/rvm
+
 Useful Links
 
 1. Ruby regular expression editor - http://rubular.com/
