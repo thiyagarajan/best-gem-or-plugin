@@ -34,6 +34,8 @@ The best gem or plugin for rails application as below,
 
 16. Scheduling tasks - https://github.com/javan/whenever
 
+17. Web technology information profiler tool - http://builtwith.com/
+
 17. facebook API - https://github.com/mmangino/facebooker
 
 18. Sitemap generator - https://github.com/kjvarga/sitemap_generator
