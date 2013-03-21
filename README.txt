@@ -2,27 +2,27 @@ Hi All,
 
 The best gem or plugin for rails application as below,
 
-1. Geo location or google map - https://github.com/andre/geokit-gem
+1. Geo location or google map - https://github.com/alexreisner/geocoder
 
-2. Rails Authentication - https://github.com/binarylogic/authlogic
+2. Rails Authentication - https://github.com/plataformatec/devise
 
-3. Twitter API - https://github.com/jnunemaker/twitter
+3. Twitter API - https://github.com/sferik/twitter
 
 4. File Uploads - https://github.com/thoughtbot/paperclip
 
 5. Deployment Automation - https://github.com/capistrano/capistrano
 
-6. E-Commerce - https://github.com/Shopify/active_merchant
+6. E-Commerce - https://github.com/spree/spree
 
-7. Rails Admin Interfaces - https://github.com/fesplugas/typus
+7. Rails Admin Interfaces - https://github.com/gregbell/active_admin
 
 8. Rails Pagination - https://github.com/mislav/will_paginate
 
-9. Rails Search - https://github.com/freelancing-god/thinking-sphinx
+9. Rails Search - https://github.com/sunspot/sunspot
 
 10. Rails Ratings/votings - https://github.com/edgarjs/ajaxful-rating
 
-11. Web servers - https://github.com/FooBarWidget/passenger
+11. Web servers - https://github.com/macournoyer/thin
 
 12. Exception Notification - https://github.com/rails/exception_notification
 
