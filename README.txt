@@ -52,6 +52,8 @@ The best gem or plugin for rails application as below,
 
 25. Ruby Version Management - https://github.com/wayneeseguin/rvm
 
+26. Background Jobs - https://github.com/collectiveidea/delayed_job
+
 Useful Links
 
 1. Ruby regular expression editor - http://rubular.com/
